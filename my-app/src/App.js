@@ -1,5 +1,4 @@
 import { Routes, Route } from 'react-router-dom';
-import { movies } from './data/data';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
