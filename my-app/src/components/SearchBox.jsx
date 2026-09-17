@@ -1,4 +1,3 @@
-import { useState } from "react";
 function SearchBox({query,setQuery}) {
   //const [query, setQuery] = useState('');
 
